@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/namah/static/css/main.509416f1.chunk.css",
+    "main.js": "/namah/static/js/main.5fe8a066.chunk.js",
+    "main.js.map": "/namah/static/js/main.5fe8a066.chunk.js.map",
+    "runtime-main.js": "/namah/static/js/runtime-main.18589023.js",
+    "runtime-main.js.map": "/namah/static/js/runtime-main.18589023.js.map",
+    "static/js/2.a4797f58.chunk.js": "/namah/static/js/2.a4797f58.chunk.js",
+    "static/js/2.a4797f58.chunk.js.map": "/namah/static/js/2.a4797f58.chunk.js.map",
+    "index.html": "/namah/index.html",
+    "precache-manifest.48646399034f364d540967de0ed665f3.js": "/namah/precache-manifest.48646399034f364d540967de0ed665f3.js",
+    "service-worker.js": "/namah/service-worker.js",
+    "static/css/main.509416f1.chunk.css.map": "/namah/static/css/main.509416f1.chunk.css.map",
+    "static/js/2.a4797f58.chunk.js.LICENSE.txt": "/namah/static/js/2.a4797f58.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/namah/static/media/ProximaNova-Thin.7bb3b456.svg",
+    "static/media/podcast-place-holder.mp3": "/namah/static/media/podcast-place-holder.3f6357ec.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18589023.js",
+    "static/js/2.a4797f58.chunk.js",
+    "static/css/main.509416f1.chunk.css",
+    "static/js/main.5fe8a066.chunk.js"
+  ]
+}
