@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/namah/static/css/main.3bfde3f3.chunk.css",
-    "main.js": "/namah/static/js/main.565ded4b.chunk.js",
-    "main.js.map": "/namah/static/js/main.565ded4b.chunk.js.map",
-    "runtime-main.js": "/namah/static/js/runtime-main.18589023.js",
-    "runtime-main.js.map": "/namah/static/js/runtime-main.18589023.js.map",
-    "static/js/2.ac89c88b.chunk.js": "/namah/static/js/2.ac89c88b.chunk.js",
-    "static/js/2.ac89c88b.chunk.js.map": "/namah/static/js/2.ac89c88b.chunk.js.map",
-    "index.html": "/namah/index.html",
-    "precache-manifest.02ef49e850bf80c5de3b56b52951dde8.js": "/namah/precache-manifest.02ef49e850bf80c5de3b56b52951dde8.js",
-    "service-worker.js": "/namah/service-worker.js",
-    "static/css/main.3bfde3f3.chunk.css.map": "/namah/static/css/main.3bfde3f3.chunk.css.map",
-    "static/js/2.ac89c88b.chunk.js.LICENSE.txt": "/namah/static/js/2.ac89c88b.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/namah/static/media/ProximaNova-Thin.2aab54cc.eot",
-    "static/media/podcast-place-holder.mp3": "/namah/static/media/podcast-place-holder.3f6357ec.mp3"
+    "main.css": "/static/css/main.83fc1b87.chunk.css",
+    "main.js": "/static/js/main.573df082.chunk.js",
+    "main.js.map": "/static/js/main.573df082.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.feccdb4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.feccdb4e.js.map",
+    "static/js/2.1a5095b9.chunk.js": "/static/js/2.1a5095b9.chunk.js",
+    "static/js/2.1a5095b9.chunk.js.map": "/static/js/2.1a5095b9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.344664895fc200a6591ce8e9ae699db8.js": "/precache-manifest.344664895fc200a6591ce8e9ae699db8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.83fc1b87.chunk.css.map": "/static/css/main.83fc1b87.chunk.css.map",
+    "static/js/2.1a5095b9.chunk.js.LICENSE.txt": "/static/js/2.1a5095b9.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/ProximaNova-Thin.2aab54cc.eot",
+    "static/media/podcast-place-holder.mp3": "/static/media/podcast-place-holder.3f6357ec.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.18589023.js",
-    "static/js/2.ac89c88b.chunk.js",
-    "static/css/main.3bfde3f3.chunk.css",
-    "static/js/main.565ded4b.chunk.js"
+    "static/js/runtime-main.feccdb4e.js",
+    "static/js/2.1a5095b9.chunk.js",
+    "static/css/main.83fc1b87.chunk.css",
+    "static/js/main.573df082.chunk.js"
   ]
 }
