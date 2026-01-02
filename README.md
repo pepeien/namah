@@ -1,4 +1,4 @@
-[![namah](.github/images/project-thumbnail.png)](https://github.com/pepeien/namah)
+[![namah](.github/images/project-thumbnail.png)]()
 
 # namah
 
@@ -52,3 +52,4 @@ npm install
 ```sh
 npm start
 ```
+
